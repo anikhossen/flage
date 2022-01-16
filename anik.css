@@ -1,3 +1,22 @@
-.rectangle{margin: 0 auto;width: 500px;height: 300px;background: green;margin-top: 60px;position: relative;}
-.circle{height: 250px;width: 250px;border-radius: 500px;background: red;margin-left: 140px;margin-top: 25px;position: absolute;
+.rectangle{margin: 0 auto;
+		width: 500px;
+		height: 300px;
+		background: green;
+		display: flex;	}
+.square2{
+	height: 250px;
+	width: 250px;
+	margin-left: 150px;
+	margin-top: 25px;
+	background: red;
+	display: flex;
+	
+}
+.circle{border-radius: 50%;}
+.anik{
+	margin:left;
+	width: 5px;
+	height: 600px;
+	background: yellow;
+	display: flex;
 }
